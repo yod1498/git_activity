@@ -7,8 +7,8 @@ public class KeyPressScript : MonoBehaviour {
 	int counter = 0;
 	void Update () {
 		if (Input.anyKeyDown) {
-			counter++;
-			outputText.text = "Key Press : " + counter;
+			counter--;
+			outputText.text = "Key Press - : " + counter;
 		}
 	}
 }
