@@ -6,7 +6,7 @@ using System.Collections.Generic;
 public class NameListScript : MonoBehaviour {
 
 	private List<string> nickName = new List<string>{
-		"000 = ",
+		"000 = YOD",
 		"602 = ",
 		"603 = ",
 		"604 = ",
