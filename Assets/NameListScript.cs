@@ -18,7 +18,7 @@ public class NameListScript : MonoBehaviour {
 		"623 = ",
 		"625 = kuypon",
 		"628 = panda",
-		"633 = ",
+		"633 = tualek",
 		"634 = ",
 		"636 = Beam",
 		"642 = ",
