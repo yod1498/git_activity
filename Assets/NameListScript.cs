@@ -33,7 +33,7 @@ public class NameListScript : MonoBehaviour {
 		"667 = ",
 		"670 = ",
 		"671 = ",
-		"679 = tangkwa",
+		"679 = tk",
 		"687 = Kendo",
 		"691 = ",
 		"695 = ",
