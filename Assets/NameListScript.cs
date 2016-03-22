@@ -11,13 +11,10 @@ public class NameListScript : MonoBehaviour {
 		"603 = ",
 		"604 = ",
 		"613 = ",
-<<<<<<< HEAD
 		"617 = Toonnn",
 		"621 = ",
-=======
 		"617 = ",
 		"621 = Jao",
->>>>>>> origin/master
 		"623 = ",
 		"625 = ",
 		"628 = panda",
