@@ -6,10 +6,10 @@ using System.Collections.Generic;
 public class NameListScript : MonoBehaviour {
 
 	private List<string> nickName = new List<string>{
-		"000 = YOD-YOD",
+		"000 = YOD-YOD1",
 		"602 = ",
 		"603 = ",
-		"604 = ไออ้วนควิกกาก",
+		"604 = ",
 		"613 = ",
 <<<<<<< HEAD
 		"617 = Toonnn",
@@ -23,11 +23,11 @@ public class NameListScript : MonoBehaviour {
 		"628 = panda",
 		"633 = ",
 		"634 = ",
-		"636 = ",
+		"636 = Beam",
 		"642 = ",
 		"646 = ",
 		"648 = ",
-		"649 = padpatt",
+		"649 = padpattt",
 		"654 = ",
 		"656 = ",
 		"658 = ",
