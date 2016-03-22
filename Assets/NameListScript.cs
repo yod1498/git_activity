@@ -22,7 +22,7 @@ public class NameListScript : MonoBehaviour {
 		"642 = ",
 		"646 = ",
 		"648 = ",
-		"649 = padpatt",
+		"649 = padpattv2",
 		"654 = ",
 		"656 = ",
 		"658 = ",
