@@ -9,7 +9,7 @@ public class NameListScript : MonoBehaviour {
 		"000 = YOD-YOD",
 		"602 = ",
 		"603 = ",
-		"604 = ไออ้วนควิกกาก",
+		"604 = ",
 		"613 = ",
 <<<<<<< HEAD
 		"617 = Toonnn",
@@ -33,7 +33,7 @@ public class NameListScript : MonoBehaviour {
 		"658 = ",
 		"664 = ",
 		"665 = ",
-		"667 = Mhong",
+		"667 = ",
 		"670 = ",
 		"671 = ",
 		"679 = ",
