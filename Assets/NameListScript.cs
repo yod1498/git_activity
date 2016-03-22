@@ -9,10 +9,15 @@ public class NameListScript : MonoBehaviour {
 		"000 = YOD-YOD",
 		"602 = ",
 		"603 = ",
-		"604 = ",
+		"604 = ไออ้วนควิกกาก",
 		"613 = ",
-		"617 = ",
+<<<<<<< HEAD
+		"617 = Toonnn",
 		"621 = ",
+=======
+		"617 = ",
+		"621 = Jao",
+>>>>>>> origin/master
 		"623 = ",
 		"625 = ",
 		"628 = panda",
@@ -22,7 +27,7 @@ public class NameListScript : MonoBehaviour {
 		"642 = ",
 		"646 = ",
 		"648 = ",
-		"649 = ",
+		"649 = padpatt",
 		"654 = ",
 		"656 = ",
 		"658 = ",
