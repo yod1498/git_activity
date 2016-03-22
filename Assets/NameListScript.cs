@@ -8,7 +8,7 @@ public class NameListScript : MonoBehaviour {
 	private List<string> nickName = new List<string>{
 		"000 = YOD-YOD1",
 		"602 = ",
-		"603 = ",
+		"603 = quick",
 		"604 = ",
 		"613 = ",
 		"617 = Toonnn",
